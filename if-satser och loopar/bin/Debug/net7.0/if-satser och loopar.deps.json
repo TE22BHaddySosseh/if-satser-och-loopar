@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "if-satser och loopar/1.0.0": {
+        "runtime": {
+          "if-satser och loopar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "if-satser och loopar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

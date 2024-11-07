@@ -1,0 +1,14 @@
+c:\Users\haddy.sosseh\Documents\PPG2\if-satser och loopar\if-satser och loopar\bin\Debug\net7.0\if-satser och loopar.exe
+c:\Users\haddy.sosseh\Documents\PPG2\if-satser och loopar\if-satser och loopar\bin\Debug\net7.0\if-satser och loopar.deps.json
+c:\Users\haddy.sosseh\Documents\PPG2\if-satser och loopar\if-satser och loopar\bin\Debug\net7.0\if-satser och loopar.runtimeconfig.json
+c:\Users\haddy.sosseh\Documents\PPG2\if-satser och loopar\if-satser och loopar\bin\Debug\net7.0\if-satser och loopar.dll
+c:\Users\haddy.sosseh\Documents\PPG2\if-satser och loopar\if-satser och loopar\bin\Debug\net7.0\if-satser och loopar.pdb
+c:\Users\haddy.sosseh\Documents\PPG2\if-satser och loopar\if-satser och loopar\obj\Debug\net7.0\if-satser och loopar.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\haddy.sosseh\Documents\PPG2\if-satser och loopar\if-satser och loopar\obj\Debug\net7.0\if-satser och loopar.AssemblyInfoInputs.cache
+c:\Users\haddy.sosseh\Documents\PPG2\if-satser och loopar\if-satser och loopar\obj\Debug\net7.0\if-satser och loopar.AssemblyInfo.cs
+c:\Users\haddy.sosseh\Documents\PPG2\if-satser och loopar\if-satser och loopar\obj\Debug\net7.0\if-satser och loopar.csproj.CoreCompileInputs.cache
+c:\Users\haddy.sosseh\Documents\PPG2\if-satser och loopar\if-satser och loopar\obj\Debug\net7.0\if-satser och loopar.dll
+c:\Users\haddy.sosseh\Documents\PPG2\if-satser och loopar\if-satser och loopar\obj\Debug\net7.0\refint\if-satser och loopar.dll
+c:\Users\haddy.sosseh\Documents\PPG2\if-satser och loopar\if-satser och loopar\obj\Debug\net7.0\if-satser och loopar.pdb
+c:\Users\haddy.sosseh\Documents\PPG2\if-satser och loopar\if-satser och loopar\obj\Debug\net7.0\if-satser och loopar.genruntimeconfig.cache
+c:\Users\haddy.sosseh\Documents\PPG2\if-satser och loopar\if-satser och loopar\obj\Debug\net7.0\ref\if-satser och loopar.dll
